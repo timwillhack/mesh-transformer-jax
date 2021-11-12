@@ -5,7 +5,7 @@ einops~=0.3.0
 requests~=2.25.1
 fabric~=2.6.0
 optax==0.0.6
-git+https://github.com/deepmind/dm-haiku
+git+https://github.com/timwillhack/dm-haiku
 git+https://github.com/timwillhack/lm-evaluation-harness
 ray[default]==1.4.1
 jax~=0.2.12
